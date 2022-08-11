@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Đorđe, a 4th year Data Science student at the Faculty of Technical Sciences, University of Novi Sad, and an intern at Brame R&D.<br>
+I'm Đorđe, a 4th year Data Science student at the Faculty of Technical Sciences, University of Novi Sad.<br>
 🌎 You can visit my [website](https://stankovictab.github.io/), or browse my repos here.<br>
 🎓 My research papers are [here](https://www.github.com/stankovictab/stankovictab/). <br>
 ☎️ You can reach me on [LinkedIn](https://www.linkedin.com/in/%C4%91or%C4%91e-stankovi%C4%87-574373172/).
